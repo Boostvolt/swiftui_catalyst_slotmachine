@@ -1,4 +1,4 @@
-# swiftui_catalyst_slotmachine
+# Catalyst Slotmachine App in SwiftUI
 
 A slot machine app which uses Mac Catalyst technology in SwiftUI.
 
